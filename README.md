@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![Todu Logo](assets/logo.png)
 
 [![iOS](https://img.shields.io/badge/iOS-15.0+-blue.svg)](https://developer.apple.com/ios/)
 [![Swift](https://img.shields.io/badge/Swift-5.0+-orange.svg)](https://swift.org/)
