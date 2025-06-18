@@ -177,12 +177,6 @@ todu/
 
 感谢所有为这个项目做出贡献的开发者！
 
-## 📞 联系我们
-
-- **项目主页**: [GitHub](https://github.com/your-username/todu)
-- **问题反馈**: [Issues](https://github.com/your-username/todu/issues)
-- **邮箱**: your-email@example.com
-
 ---
 
 <div align="center">
